@@ -1,0 +1,18 @@
+<config>
+  <itemList>
+    <item>
+      <date>date1</date>
+      <mode>mode1</mode>
+      <unit>unit1</unit>
+      <current>current1</current>
+      <interactive>interactive1</interactive>
+    </item>
+    <item>
+      <date>date2</date>
+      <mode>mode2</mode>
+      <unit>unit2</unit>
+      <current>current2</current>
+      <interactive>interactive2</interactive>
+    </item>
+  </itemList>
+</config>
